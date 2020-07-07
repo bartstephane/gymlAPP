@@ -6,7 +6,7 @@
 
 # installation specific files
 #/public/appConfig.js
-/public/settings.js
+#/public/settings.js
 
 # dependencies
 /node_modules

@@ -12,8 +12,9 @@ window.kursausschreibung.appConfig = {
   "instanceId": "GymBiel",
   // the client id for this application.
   "clientId": "GymB",
+  "clientSecret": "sert42SFdaetTsgh76",
   // set this to true if you want to use autologin on your page. If "false" the authorization must be done by the application, that module does not perform authorization. If false and no token found in the local storage (CLX.LoginToken) the "kursausschreibung" application only refresh the actual url. The application must be redirect user to login form.
-  "useAutoLogin": true,
+  "useAutoLogin": false,
   // the scope of the application
-  "applicationScope": "Public"
+  "applicationScope": "NG"
 };

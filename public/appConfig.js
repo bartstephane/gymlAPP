@@ -5,7 +5,7 @@ window.kursausschreibung.appConfig = {
   // API base URL without trailing slash
   "apiUrl": "https://evento-test.erz.be.ch",
   // base Url of the web application without trailing slash (also the redirect url for public clients)
-  "webBaseUrl": "https://www.stefbart.ch",
+  //"webBaseUrl": "https://www.stefbart.ch",
   // base url of the CLX.Evento OAuth Server.
   "oauthUrl": "https://evento-test.erz.be.ch/OAuth",
   // the instance id for this application.

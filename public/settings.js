@@ -184,8 +184,9 @@ window.kursausschreibung.settings = {
 
 	// when a field is optional or not in the form you can set a default value.
 	// it will overwrite null values in the post to the person endpoint (optional)
+	// eslint-disable-next-line no-dupe-keys
 	"personDefaultValue": {"CountryId": "CH"
-  }
+  },
 
   // set this to true to only show events with matching language (optional)
   "languageOfInstructionFilter": false,

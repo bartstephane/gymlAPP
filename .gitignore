@@ -5,7 +5,7 @@
 /tmp
 
 # installation specific files
-/public/appConfig.js
+#/public/appConfig.js
 /public/settings.js
 
 # dependencies
